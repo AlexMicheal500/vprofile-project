@@ -1,0 +1,2 @@
+Let me paste my solution incase someone is having the problem i had. Go to manage jenkins, > then under security go to configure global security > then under CSRF Protection, check *Enable proxy compatatibilty. 
+Then logout, do a hard refresh(ctrl+refresh), then login again. 
